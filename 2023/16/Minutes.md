@@ -1,163 +1,107 @@
 Date: {16/08/2023}
+
 Who: {Secretive, Squiddy, Loaf, Formentador, Redbeard, 1337, Amaro, DistractedDev, Raschel, Milan, Spaghetti, 0xcredence, Bulbhead}
 
-# Agend
+## Agenda
 - Discuss Adventurers Mint
+- Tournaments in Loot Survivor
+- Loot Survivor Timeline
 - Discuss extending runway
 - Discuss Ducks Everywhere collaboration
-- 
-# Minutes
+  
+## Minutes
 
--   {Adventurer Mint}
-Secretive:
-Initial idea is create a mint which is low cost, low utility but upgradeable. What options do we have and what can create buzz or a clearer pitch defining use case of the adventurer.
+### Adventurer Mint Discussion
+Initial idea of the mint was a low cost & low utility but upgradeable NFT. The are other options which can be discussed and decided upon. The aim of this mint is to bolster the Treasury of the DAO with stable and hard currency to allow for extended runway and Frontinus House funding.
 
-Objective is - How do you raise 6 months of runway? 300k Would be goal. 
+Possible Options discussed:
+1. Low cost mint no utility but allow for optionality of utility down the line. High quantity mint but low cost of approx a game of lS aka 2.5 USD.
+2. Adding a promotion - You buy a stamp of games, effectively selling a batch of game "tokens" for a discount. 10 dollars for 25 dollars of game tokens. 
+3. Golden ticket - 1 higher cost mint for a stream of game tokens. 1 upfront cost for a monthyl set amount of game tokens. Issue being making future devs include this.
+4. Find a way to reduce take rate within the ecosystem. Give 0 fees to holders of the token or a discount within the ecosystem.
+5. Generative art token. No utility but artistic. Seeded by onchain effects.
+6. Clone LS and create a tournament which will give winners a way to get a adventurers mint. Only X amount of people can play this and therefore get an adventurer. Can run multiple times over months/years and will make the more recent adventurers "rarer".
+7. Clone LS and instead of winning a prize you get a WL to mint an adventurer. Can run multiple tournaments to disperse the Wl's.
+8. Brand experiences, utilise lore and discord games to use as the minting process. Can be merged with other options.
+9. Create an onchain artwork revolving around Loot survivor and utilising the themes of LS.
 
-Option 1: Low cost mint no utility but allow for optionality of utility down the line. High quantity mint but low cost of approx a game of lS aka 2.5 USD.
-Option 2: Adding a promotion - You buy a stamp of games, effectively selling a batch of game "tokens" for a discount. 10 dollars for 25 dollars of game tokens. 
-Option 3: Golden ticket - 1 higher cost mint for a stream of game tokens. 1 upfront cost for a monthyl set amount of game tokens. Issue being making future devs include this.
-Option 4: Find a way to reduce take rate within the ecosystem. Give 0 fees to holders of the token or a discount within the ecosystem.
-Option 5: Generative art token. No utility but artistic. Seeded by onchain effects.
-Option 6: Clone LS and create a tournament which will give winners a way to get a adventurers mint. Only X amount of people can play this and therefore get an adventurer. Can run multiple times over months/years and will make the more recent adventurers "rarer".
-Option 7: Clone LS and instead of winning a prize you get a WL to mint an adventurer. Can run multiple tournaments to disperse the Wl's.
-Option 8: Brand experiences, utilise lore and discord games to use as the minting process. Can be merged with other options.
+Golden ticket review:
+- Hard to incentivise adoption within further p2d games.
+- If only used for LS it could reflect poorly if LS is not receive well.
+- Split of costs between the lords amount could cause contention.
+- Similar to a loan in which gain upfront revenue at the cost of long term revenue.
+- Could takeaway buy pressure long term from Lords.
+- DAO could subsidise the cost of adventurers within p2d contracts.
 
-Formentador:
-Raises risks within a golden ticket option - Will not be putting in lords but can extract from winning. Diminishes newer players experience as they want to just play and will feel unhappy with others not having that cost. LS has not been tested on mainnet so we don't know how resilient it will be with mass usage. Can put all eggs in one basket as it would only be one game.
-Favours option 3 & 4 as they are proven models within NFT systems.
+Consensus was reached that we should push Loot Survivors main contract (Not a fork) as the main attraction within the following months and therefore should be a key componenet to whatever is created or decided upon. 
 
-Squiddy:
-Questions execution of a golden ticket if the p2d model has a split of costs between several parties (Dao, UI etc...)
+Possible route instead of an AI character generation is an onchain generative 8bit style character. Example below <img width="291" alt="Screenshot 2023-08-18 at 17 29 20" src="https://github.com/Calcutatator/bibliotheca-minutes/assets/114863662/815215a6-b932-4ffb-a03f-c148e1d83819">
 
-Secretive:
-Outline it is like a loan of upfront revenue in leu of further revenue down the line. With a golden ticket the is a value prop of the nft is worth X amount as they will give you a set amount of games which have a cost.
+Outstanding Topics:
+- We must decide wether whatever adventurer mint is completed if it carries the utility of a "Golden Ticket" style utility or holds no utility.
+- Mint can either utilise a onchain generative set or be utilising the AI adventurers.
 
-Distracted:
-The base idea needs to stay. The whole aw thesis is that you mint an adventurer and get to play a game and that is your entrance ticket. Early bird ticket does not make sense as it undermines that thesis. LS tournament may takeaway buy pressure from lords, people would buy adventurers instead of just playing LS and getting lords tokens.
+### Discusion in regards to Tournaments within Loot Survivor
+Tournament contract can be created in parallel to Loot Survivor to allow for challenges to be made within Loot Survivir. This will create varied styles of gameplay and could help with player retention in the long term as the game can be fresh without ever changing the immutable Loot Survivor game.
 
-Secretive: 
-Tournaments can have a bounty of funds, nfts or discord roles. Allows you to go for market and 10k people can fight for a prize. May generate interest in LS and shows composablity of onchain games.
+Tournaments can have a bounty of funds, Nft's or discord roles attached to provide incentive to play various types of tournaments. 
 
-Loaf:
-Not sold. Few more weeks of dev then a two week freeze until live. Generative model is unconvinsed as its not perfect. LS is coming up and we should simply maxamise this launch, we should leverage Loot Survivor. We could sell game with golden tickets and promise x games per x time and sell a large amount. 
-We can create an onchain artwork for this. Focus the mint and process around Loot Survivor.
-Path isnt making multiple forks of LS but should be focused on the main LS game.
+This may generate both revenue and display the composability of onchain gaming to the wider crypto landscape.
 
-Secretive:
-Does not believe the Lords is sellable in market. 
-Could charge usdc instead of Lords as useable as revenue.
+### Discussion in regards to Loot Survivor Timeline
 
-Loaf:
-Would price mints at 100 dollars if its perpetual fees. Could be cultural artifacts as first.
-100 dollars is reasonable amount for this.
+Loot survivor is approximately 4 weeks out. Two weeks of developer work and then a further two weeks of testing and making sure the contracts are secure.
 
-We can do a simple generative set which can be launched with Loot Survivor. Golden ticket is the approach for this, the way it would work is it would be an nft contract and games would wl this contract to be usable within games. Golden ticket would simply override the process.
+### Discussion for extending runway
+**This topic is heavily tied into the Adventurer mint**
 
-Formentador:
-Does not believe free passes will be used as the developer will not want to give free passes to teams not funded by the DAO. Maybe LS golden tickets should be seperate from other games.
+A preferred amount of approximately 300k was aimed to be raised. This could be done through fees within games or advenuturer mint fee.
 
-Loaf: 
-This approach would be very simple and the art would be minimal time.
+Points raised
+- Lords is quite illiquid. Could utilise USDC as an option for a fee token in Loot Survivor.
+- Adventurers mint can be priced at 100 dollars as can carry strong utility and provenance within the ecosystem.
 
-Redbeard:
-People would not be contributing to LS to play the game which could be an issue.
+## Summary and outcome of prior discussions
+Capital raise decision -
+1. Do we sell golden tickets.
+2. Switch Lootsurvivor fee token to a stablecoin or eth.
+3. Utilise Tournaments to raise capital.
 
-Secretive:
-We could pay Lords from the DAO on behalf of the golden ticket users.
+General concensus aired towards 2. and also 3. as means to raise capital.
 
-How do we proceed from here? 
+USDC notes:
+- Will act as perpetual funding to the dao and Frontinus house.
+- We could utilise a buy back/burn of the funds raised.
+- Utilise funds to expand liquidity.
+- Greater incentive for new users as they gain "hard" currencies.
 
-We sell of a golden tickets which are like a lottery. A privelaged card which can play for free.
-OR
-Switch asset used for LS to a stable coin.
-OR
-Use a variation of LS tournaments to raise capital.
+Tournament notes:
+Initial assumption was to fork the game to create mods but with a seperate contract we could utilise a constraint on the immutable initial contracts of LS to create varied experiences within the game. Can be completed within the mainnet of Loot Survivor.
 
-Loaf:
-USDC makes sense. 
-
-We can use it as perpetual funding for the DAO in stable coin and could flip to lords after an amount raised.
-
-Secretive:
-We could use a % to chage to lords and use a a buy back/burn.
-
-Loaf:
-We can use the funds to be able to expand the game.
-
-Secretive:
-We could use the funds to expand liquidity.
-We can change the way the money is utilised on the leaderboard. People would be earning hard currency instead of Lords which can be seen as a benefit.
-A way to frame this could be: First version of LS a standalone arcade using dollars which 1. Gives players Dollars or eth 2.Dao builds treasury 3. % will go back to token buybacks and/or liquidity.
-
-Loaf:
-We can use this as a perpetual stream into Frontinus House to build out the ecosystem.
-
-Team:
-The leaderboard stream of funds is seperated out by weeks.
-1. All to players.
-2. All to players.
-3. Dao gains split of lords.
-4. Week 8 UI gains 5 lords per 25.
-
-Secretive:
-How do we add incentive of people to continually keep playing the game. Attention wanes with time and we need to know how people can come back to the game.
-Assumption was to mod the game and fork it to change the game and keep people interested.
-
-Loaf:
-Plans to create a fork of the game and create a jackpot of lords for people to win.
-
-Distracted:
-We can create a parallel leaderboard or quest where we can create criteria for people to be able to win and play with. We can allow people to pay for an entrance ticket and people will have to meet a requiremet to make a valid submission, this tournamet can have its own prize pool.
-
-To garner freshness you add challenges for this. 
-
-Secretive:
-We should have shorter time period leaderboards. Daily leaderboards can add freshness to the game.
-
-*Summary*
-Options for raising funds.
-Golden ticket plan of selling tickets for multiple games.
-Exchange Lords to USDC to allow the dao to hold a liquid asset. Stream that value back into the DAO.
-Adding tournaments which will allow us to make fundraising initiatives and fun ways to keep up retention in the game.
+Player retention was discussed following the tournament conversation, points below:
+- We can create a leaderboard which can asses recet time periods (Days, weeks, months) to give variety to who is top of the leaderboard.
+- Leaderboards can be integrated into the tournaments meaning players can enter a "season" and have a seperate prize pot for that season.
 
 Actions:
-Bring in Loothero into the conversation in regards to changing to USDC.
-Review Golden Tickets strategy.
+- Decide on wether to change LS mainnet to USDC and bring in Loothero into the conversation.
+- Review Golden Tickets strategy.
+- Decide on adventurer mint process (Cost, Artwork and go to market strategy)
 
-Timeline:
+Timeline for action items:
 Mid September to early October
 
--   {Ducks Everywhere Campaign}
+### Ducks Everywhere Campaign
 Mechanic is if you hold 100 Lords on Monday @ 1pm UTC a snapshot will be done to raffle away the Lords Duck.
 
-Redbeard can assist in extracting this information. Getting this information is easy and will take a small amount of time from Apybara.
-
-Secretive:
-Are the any onchain raffle mechanics to automate out this process?
-
-The are 3rd party process' for this and will do as the snapshot is centralised so not worth doing an onchain raffle.
-
-This will have to be the simplest route which is a snapshot of the holders of 100 lords from starkscan and a random number generator.
-
-Lords holders are up several multiples since the announcement which is a good signifier of the project working as intended.
-
-Later Today we will reveal the ducks and the winner can choose which they want.
-
-Second duck will be a creative competition to win that duck.
-
-Third duck will be a challenge used within the games we are producing, more than likely Loot Survivor.
-
-Tournament contract can be used to raffle of prizes and will provide a seperation between the immutable game against the tournamants and raffles.
-
-Can we execute in testing or wait for mainnet? We can utilise in testing and can be completed very quickly and within the time of the launch of the mainnet of the game.
+Action Items and notes:
+- Redbeard can assist in extracting this information. Getting this information is easy and will take a small amount of time from Apybara.
+- Onchain raffle mechanics discussed but shelved as would be too complex for the current project.
+- Lords holders are up significantly on Starknet since the annoucement which meas this has being affective.
+- Later Today we will reveal the ducks and the winner can choose which they want.
+- Second duck will be a creative competition to win that duck.
+- Third duck will be a challenge used within the games we are producing, more than likely Loot Survivor.
 
 # Links
 
 -   {[Figma](https://www.figma.com/file/2IPm5weOEc0laaGX8SHBw3/Realms-Brand-%26-Design-Update-Brainstorm?type=whiteboard&node-id=0-1&t=XXojG4iiu5y9QNxh-0)}
 
-### {Topic}
-
-ACTION: {Next action, one per line}
-
-DECISION: {Decisions that should be recorded in DECISIONS.md}
