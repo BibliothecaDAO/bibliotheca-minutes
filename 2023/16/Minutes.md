@@ -76,7 +76,8 @@ USDC notes:
 - Greater incentive for new users as they gain "hard" currencies.
 
 Tournament notes:
-Initial assumption was to fork the game to create mods but with a seperate contract we could utilise a constraint on the immutable initial contracts of LS to create varied experiences within the game. Can be completed within the mainnet of Loot Survivor.
+- Initial assumption was to fork the game to create mods but with a seperate contract we could utilise a constraint on the immutable initial contracts of LS to create varied experiences within the game.
+- Can be completed within the mainnet of Loot Survivor.
 
 Player retention was discussed following the tournament conversation, points below:
 - We can create a leaderboard which can asses recet time periods (Days, weeks, months) to give variety to who is top of the leaderboard.
