@@ -8,7 +8,7 @@ Who: {Secretive, Calc, Loaf, Raschel, Fomentador, Distracted Dev}
 ## Minutes
 
 ### Breakdown of LORDS
-- Calc and Squid working on reccing the LORDS minted. Completed [here](https://docs.google.com/spreadsheets/d/1Wgv_oV-bhmZurzkU42aaQy1OOIShG6f64rWfx2Kbyp4/edit?usp=sharing).
+- Calc and Squid working on reconciling the LORDS minted. Completed [here](https://docs.google.com/spreadsheets/d/1Wgv_oV-bhmZurzkU42aaQy1OOIShG6f64rWfx2Kbyp4/edit?usp=sharing).
 - Minting of lords. Required to be enable the onchain governance and also the contributor/FH grant payments.
   
 ### Plannig the Lords Table
